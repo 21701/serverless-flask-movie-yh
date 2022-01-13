@@ -1,6 +1,6 @@
 # Serverless Framework Python Flask API on AWS
 
-This template demonstrates how to develop and deploy a simple Python Flask API service running on AWS Lambda using the traditional Serverless Framework.
+This template demonstrates how to develop and deploy a simple Python Flask API service running on AWS Lambda using the traditional Serverless Framew
 
 
 ## Anatomy of the template
